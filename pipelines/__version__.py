@@ -1,0 +1,6 @@
+__title__ = "pipelines"
+__description__ = "pipeines - aviation prediction"
+__version__ = "0.0.1"
+__author__ = "Yong Sheng"
+__author_email__ = "choo.yong.sheng@gmail.com"
+__license__ = "Apache 2.0"
